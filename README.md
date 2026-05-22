@@ -1,4 +1,4 @@
-# Xylo – AI Virtual Teacher & Learning Management System
+# Xylo – AI Virtual Teacher & Learning Management System(Full Stack)
 
 An AI-powered virtual teacher integrated with a Learning Management System for personalised student support.
 
